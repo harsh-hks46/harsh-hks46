@@ -37,6 +37,8 @@ A desktop-based task management application built using Java.
 * 🖥️ User-friendly GUI interface
 * 📁 Automatically creates and manages task files
 
+🔗 Project Repository: https://github.com/harsh-hks46/SmartTaskManagerGUI
+
 🎯 This project helped me understand file handling, GUI development, and structured programming in Java.
 
 ---
@@ -44,3 +46,4 @@ A desktop-based task management application built using Java.
 ## 🎯 Goal
 
 To become a skilled software developer and work on real-world projects while continuously improving my technical and problem-solving abilities.
+
