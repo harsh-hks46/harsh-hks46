@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Harsh Kumar Singh 👋  
 
-<!--
-**harsh-hks46/harsh-hks46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student with a strong interest in programming and software development. I enjoy building practical projects and continuously improving my problem-solving skills through hands-on learning.
 
-Here are some ideas to get you started:
+I have experience working with multiple programming languages including Java, C++, and Python, and I am also familiar with Git, GitHub, and basic Linux commands. I like exploring how software works behind the scenes and applying my knowledge to real-world scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills:
+- Java  
+- C++  
+- Python  
+- Git & GitHub  
+- Basic Linux  
+
+## 🔹 Interests:
+- Software Development  
+- Problem Solving  
+- Learning new technologies  
+
+## 🔹 Goal:
+To become a proficient software developer and contribute to meaningful real-world projects while continuously growing my technical expertise.
