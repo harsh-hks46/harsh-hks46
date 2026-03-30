@@ -1,20 +1,46 @@
-# Hi, I'm Harsh Kumar Singh 👋  
+# Hi, I'm Harsh Kumar Singh 👋
 
-I am a student with a strong interest in programming and software development. I enjoy building practical projects and continuously improving my problem-solving skills through hands-on learning.
+💻 I am a student passionate about programming and software development. I enjoy building practical projects and continuously improving my problem-solving skills through hands-on learning.
 
-I have experience working with multiple programming languages including Java, C++, and Python, and I am also familiar with Git, GitHub, and basic Linux commands. I like exploring how software works behind the scenes and applying my knowledge to real-world scenarios.
+🚀 I have experience working with multiple programming languages including **Java, C++, and Python**, along with tools like **Git, GitHub, and basic Linux**. I like understanding how systems work and applying my knowledge to real-world scenarios.
 
-## 🔹 Skills:
-- Java  
-- C++  
-- Python  
-- Git & GitHub  
-- Basic Linux  
+---
 
-## 🔹 Interests:
-- Software Development  
-- Problem Solving  
-- Learning new technologies  
+## 🛠️ Skills
 
-## 🔹 Goal:
-To become a proficient software developer and contribute to meaningful real-world projects while continuously growing my technical expertise.
+* 💡 Java
+* 💡 C++
+* 💡 Python
+* 🔧 Git & GitHub
+* 🐧 Basic Linux
+
+---
+
+## 📌 Interests
+
+* 🔹 Software Development
+* 🔹 Problem Solving
+* 🔹 Exploring New Technologies
+
+---
+
+## 📂 Projects
+
+### 🔹 Smart Task Manager (Java + GUI)
+
+A desktop-based task management application built using Java.
+
+✨ Features:
+
+* 📋 Add, update, and delete tasks
+* 💾 Stores tasks in files (persistent storage)
+* 🖥️ User-friendly GUI interface
+* 📁 Automatically creates and manages task files
+
+🎯 This project helped me understand file handling, GUI development, and structured programming in Java.
+
+---
+
+## 🎯 Goal
+
+To become a skilled software developer and work on real-world projects while continuously improving my technical and problem-solving abilities.
